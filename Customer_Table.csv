@@ -1,0 +1,401 @@
+Customer_ID,First_Name,Last_Name,Email,Phone_Number,Address,City,Country,Loyalty_Points,Account_Creation_Date,Customer_Type
+CUST001,Jacob,Hogan,andrew99@austin.com,0831065992,"352 Anna Row Suite 803
+Schmidtland, DE 75875",East Annaberg,Saint Lucia,183,2023-07-11,Retail
+CUST002,Nicole,Stephens,mguzman@gmail.com,147-535-3928x762,"7350 Wood Tunnel
+North Douglas, NJ 32994",Jamieview,Saint Vincent and the Grenadines,898,2024-06-08,Wholesale
+CUST003,Julie,Little,sandrali@yahoo.com,0676771216,"599 Taylor Garden
+Joelside, VA 35025",Zhangburgh,Jordan,435,2022-01-03,Wholesale
+CUST004,Connie,Reeves,thall@yahoo.com,(798)597-1346,"47743 Jessica Plain Apt. 149
+South Ricardo, PA 22291",South Joshua,Algeria,806,2019-12-23,Wholesale
+CUST005,Alexander,Davis,allenlisa@yahoo.com,009.946.1723,"83191 James Fields
+Codymouth, ID 37966",North Billyview,San Marino,491,2020-07-13,Wholesale
+CUST006,Bradley,Ramos,lisamiller@miller.com,405-788-9262x3601,"Unit 0901 Box 3985
+DPO AE 73854",Port Natasha,Madagascar,921,2024-05-11,Retail
+CUST007,Christina,Guzman,traceytran@lewis-garcia.org,(379)621-3951x981,"130 Parker Circle
+Lake Aaron, MA 24984",Alexisshire,Malaysia,13,2022-04-25,Wholesale
+CUST008,Kathy,Bolton,amanda94@walker-ponce.biz,(520)950-1405,"782 Zhang Key
+South Maureen, SD 92328",Catherineton,Japan,411,2022-10-29,Wholesale
+CUST009,Elizabeth,Armstrong,nleach@martinez.com,2252648766,"668 Powers Gardens
+North Heather, ID 55223",Austinmouth,Netherlands Antilles,651,2021-07-27,Wholesale
+CUST010,Catherine,Hall,kingjonathan@larsen-fischer.com,(207)379-4720x4502,"230 Benitez Port
+Schwartzview, ID 78676",Port Leslieville,Faroe Islands,757,2020-12-28,Retail
+CUST011,Christopher,Moore,brittany04@yahoo.com,(360)716-3280x5806,"139 Brown Point Apt. 054
+Jasontown, MD 36046",Port Patrickbury,Czech Republic,560,2021-04-06,Retail
+CUST012,Tina,Tyler,carriesnyder@smith.info,001-398-116-7089x84994,"62499 Christine Prairie Suite 980
+Vanessatown, VT 94252",Kayleeborough,Mauritius,848,2023-06-07,Retail
+CUST013,Erica,Perkins,blake58@gmail.com,781.714.4321x7573,"617 Jerry Port
+East Courtneymouth, KS 15290",Nathanview,Bangladesh,398,2023-08-07,Retail
+CUST014,John,Moreno,tinadaniel@hotmail.com,497-900-4314,"490 Dawn Circle Suite 520
+Janetchester, VA 33884",East Michealport,Cameroon,489,2022-04-12,Wholesale
+CUST015,Edward,Rodriguez,nancyhess@hotmail.com,2808898886,"USNV Byrd
+FPO AE 51551",Johnsonfort,Turkmenistan,805,2022-02-06,Retail
+CUST016,Philip,Hicks,hbautista@yahoo.com,001-982-450-9870x4832,"73748 Julia Loop Suite 273
+Carolton, RI 67315",East Kelseybury,Estonia,98,2020-01-25,Wholesale
+CUST017,Noah,Mcknight,donna45@cisneros.org,8947798099,"429 Hector Grove Apt. 401
+South Howard, OH 88279",Meyerbury,El Salvador,6,2022-10-21,Wholesale
+CUST018,Brian,Murray,evanpatel@yahoo.com,370.017.7204x8554,"417 Tristan Fort Apt. 817
+Joshuafort, OK 63441",West Erica,Korea,338,2024-01-02,Wholesale
+CUST019,Pamela,Lee,carterstephen@gmail.com,721.857.8268x893,"6135 King Crossroad Suite 097
+Andreatown, NE 86766",Jennifermouth,Iceland,154,2024-11-10,Wholesale
+CUST020,Donna,Smith,debbiemathis@jones-jones.com,523.002.0905x1698,"608 Mueller Green Apt. 338
+New Sandraville, ME 91123",Codyberg,Luxembourg,908,2024-02-09,Wholesale
+CUST021,Luis,Hudson,julie57@yahoo.com,(803)628-8904,"72045 Ashley Locks
+Brownshire, CA 37560",Michaelfort,Georgia,529,2023-10-14,Retail
+CUST022,Victoria,Williams,esimmons@yahoo.com,+1-749-855-1238x91315,"997 Mayer Mall
+East Michael, TX 53251",Port Todd,Hungary,386,2022-11-29,Wholesale
+CUST023,Vickie,Young,barkermary@hotmail.com,+1-114-282-2985,"449 Chavez Meadow
+Christianburgh, GA 05847",Hoganfurt,Marshall Islands,11,2024-04-26,Retail
+CUST024,Tracy,Byrd,snyderethan@hall.com,(692)515-4390x159,"57802 Travis Brook
+East Michael, ID 85274",Lake Travisshire,El Salvador,785,2022-07-08,Wholesale
+CUST025,Sabrina,Daniel,ashleymatthews@hotmail.com,8006341437,"103 Howell Park
+Alyssastad, LA 40568",West Amyton,Barbados,759,2023-10-05,Wholesale
+CUST026,Sandy,Wood,mcbridemegan@gmail.com,(199)221-1473x6447,"169 Garcia Island
+Lake Diane, SD 19066",Kevinton,Greenland,888,2020-01-25,Retail
+CUST027,Sean,Carter,amy66@gmail.com,188.452.7222x1597,"2665 Linda Haven Apt. 788
+Port Annton, ME 95162",West Matthew,Honduras,890,2020-01-26,Wholesale
+CUST028,Kathy,Hernandez,heathermosley@lee-rogers.org,(621)681-8620x1924,"54586 Carl Rapid
+Port Leslie, MN 41795",Jonathanport,Germany,869,2024-10-21,Wholesale
+CUST029,Sylvia,Smith,qmolina@sanders-lewis.com,(404)094-9033,"66224 Lee Road
+Denisemouth, CO 82764",Williamshaven,Holy See (Vatican City State),110,2020-01-09,Retail
+CUST030,Jacob,West,wilsonkevin@gmail.com,547.543.4237,"031 Caitlyn Course Suite 969
+New Kelly, FL 84937",East Thomashaven,Guyana,365,2020-02-05,Wholesale
+CUST031,Ruth,Bell,thomasbailey@huff.com,430.055.5886x56834,"934 Corey Points
+Port Katelyn, NJ 12221",Sparksfurt,Niue,712,2024-11-21,Retail
+CUST032,Traci,Rivera,josephholmes@hicks.com,+1-782-435-4542x830,"PSC 0526, Box 0856
+APO AP 76678",Donnastad,Gibraltar,694,2024-10-26,Wholesale
+CUST033,Jennifer,Barnett,yrodriguez@garcia.com,693.418.4106x346,"58053 Garcia Place Suite 160
+Cherylshire, VT 19684",South Daniel,Montserrat,897,2021-11-28,Retail
+CUST034,Christina,James,williamskaren@olsen.com,750-176-7309x6393,"022 Hancock Brooks
+East Jamesmouth, MN 79443",Paulbury,Norway,173,2020-10-23,Retail
+CUST035,Sergio,Clark,regina82@foster-thomas.com,(867)082-9101,"860 Gonzales Greens
+Kaitlyntown, CA 94777",South Matthewfort,United Arab Emirates,518,2020-09-15,Retail
+CUST036,Tiffany,Rice,suzanne95@gmail.com,8680549712,"38021 Todd Vista
+North Michael, WY 77798",Jeffreyland,Montenegro,921,2021-07-31,Retail
+CUST037,Samantha,Hamilton,mbailey@pacheco.com,+1-750-578-2737,"1619 Lisa Skyway
+East Samantha, IL 25817",Brianberg,Montenegro,650,2021-01-01,Wholesale
+CUST038,Walter,Howell,dlloyd@randall-fischer.org,330-064-1387x8025,"61104 John Turnpike Suite 315
+Gonzalesmouth, NH 23493",Colemanberg,Palestinian Territory,177,2021-02-13,Retail
+CUST039,Melvin,Johnson,stokesanthony@yahoo.com,001-913-106-0962,"PSC 8899, Box 7477
+APO AP 71554",Pamelaton,Papua New Guinea,301,2022-06-19,Wholesale
+CUST040,Tracy,Sparks,melissameza@hotmail.com,001-800-812-7629x958,"85696 Grant Common Suite 768
+Paulhaven, MS 06966",Jennashire,Korea,168,2022-04-01,Wholesale
+CUST041,Robin,Jones,carlos72@hotmail.com,924.432.3016x9068,"Unit 5647 Box 2394
+DPO AE 07034",Nicolebury,Uruguay,190,2024-02-11,Wholesale
+CUST042,Keith,Grimes,brooksmegan@hotmail.com,587.388.1813,"36043 Sandra Islands Apt. 202
+South Jerry, IL 68614",Sherrystad,Croatia,472,2021-11-02,Retail
+CUST043,Megan,Johnson,emily67@davis-castillo.com,3524475840,"21930 Jennifer Well Apt. 732
+Port Jerry, MS 50133",North Riley,Nepal,314,2020-01-11,Wholesale
+CUST044,William,White,kari98@hotmail.com,001-637-282-1267x53192,"46830 Orozco Squares Apt. 605
+North David, HI 94057",Lake Christyview,Jersey,42,2022-01-30,Retail
+CUST045,Holly,Brown,fieldsaaron@davis-thomas.com,001-365-427-9657x006,"PSC 5417, Box 2458
+APO AA 65976",Port Barbara,Brazil,681,2024-07-06,Retail
+CUST046,Lisa,Johnson,goodmanglenda@yahoo.com,+1-785-110-1848x3653,"1496 Teresa Unions
+West Jaredhaven, OK 85013",South Robertville,Cook Islands,897,2024-09-21,Wholesale
+CUST047,Joseph,Garner,thomas77@gill.biz,882-429-7743,"5779 Wallace Square
+Port Janice, MS 25752",Tinastad,Hungary,16,2022-02-12,Retail
+CUST048,Christy,Taylor,lawrence63@gmail.com,001-649-037-5170,"9154 Parker Inlet Apt. 451
+New Jessica, AR 22978",Lake Shannonfurt,Austria,470,2021-10-12,Wholesale
+CUST049,Rodney,Rose,melissa13@sanchez.com,097-022-9920x272,"4339 Ashley Fort Suite 121
+Heidihaven, AR 78707",New Angelaview,Bosnia and Herzegovina,885,2020-12-11,Retail
+CUST050,Cindy,Yu,rebecca78@gonzalez.com,(753)624-4350x01169,"213 Doyle Summit Suite 681
+North Barbara, IL 31502",New Melissafurt,Guatemala,73,2023-06-02,Wholesale
+CUST051,Kenneth,Green,kevinlee@thompson-mcfarland.com,+1-515-791-7724x8812,"40558 Rodriguez Curve
+New Jeffrey, MO 80687",Port Courtney,British Indian Ocean Territory (Chagos Archipelago),940,2022-05-03,Wholesale
+CUST052,Jordan,White,wbrown@yahoo.com,(224)596-0987x917,"52412 Lisa Inlet
+Lake Andrew, TX 42048",Hillchester,Korea,195,2020-04-28,Retail
+CUST053,Sue,Vargas,tjohnson@yahoo.com,470.441.6522x11679,"38226 Clifford Flats
+Cisnerosfort, OK 09623",Eddieshire,Tajikistan,686,2021-03-09,Retail
+CUST054,Jacob,Cox,jeremy90@hotmail.com,(233)269-6393,"60669 Eric Cape
+Port Anthonyborough, AZ 30444",West Adrianaside,South Africa,710,2019-12-11,Retail
+CUST055,Briana,Mills,hchristian@mcdaniel.biz,969.005.9107,"497 Shawn Way
+Kimberlychester, MN 83989",Wilsonfurt,Equatorial Guinea,524,2021-09-26,Retail
+CUST056,Caitlyn,Davis,colin42@hotmail.com,(770)412-8527x58971,"610 Davis Forest
+New Rebeccafurt, KY 49286",South Tanyabury,British Virgin Islands,437,2022-10-12,Retail
+CUST057,Julie,Jackson,danielnguyen@cole.org,(386)064-8231x253,"40303 Sarah Union Suite 407
+Westtown, AL 46773",New Christy,Germany,292,2021-09-08,Wholesale
+CUST058,Jamie,Reed,levywilliam@yahoo.com,869.850.9473x578,"5173 Tanya Views Suite 900
+North Nancy, SD 90446",Virginiabury,Bolivia,813,2022-01-30,Wholesale
+CUST059,Timothy,Guerrero,shane15@hotmail.com,001-928-766-4923x5035,"864 Haas Inlet
+Lake Jameshaven, TX 41307",Port Brad,Aruba,241,2022-06-16,Retail
+CUST060,Gene,Green,kingbrandon@gmail.com,+1-074-439-5043x97076,"43970 Justin Prairie Apt. 590
+Lake Andrewport, OK 81714",Littleburgh,Saint Kitts and Nevis,494,2023-08-13,Wholesale
+CUST061,Jessica,Moore,lsmith@schmidt.com,458-473-2827x617,"PSC 4631, Box 5449
+APO AA 53879",North Joseph,Guinea,46,2022-08-18,Wholesale
+CUST062,Kathleen,Wilson,rachelmarsh@lewis-randolph.com,325.374.6838x887,"USNV Hurley
+FPO AP 23970",Thomasbury,Macao,599,2024-05-11,Wholesale
+CUST063,Michael,Cox,morenojacob@yahoo.com,(809)760-2841x38273,"1258 Amanda River
+East Denise, HI 11763",Port Thomasmouth,Macao,511,2021-09-19,Retail
+CUST064,Shawn,West,drose@douglas.com,521-012-6071x971,"6240 Morris Freeway Suite 692
+Martinmouth, IN 39358",New Christopherstad,Mongolia,413,2022-04-22,Retail
+CUST065,Rachael,Ray,amyheath@garcia.org,0104412913,"9801 Frank Road Apt. 759
+East Justin, MI 70743",New Samanthaton,Gambia,330,2021-05-09,Wholesale
+CUST066,Emily,Merritt,cheryl92@morales.com,045.905.7368,"734 Hernandez Court Suite 095
+North Tonya, MS 35617",Lake Cody,Fiji,561,2021-05-22,Wholesale
+CUST067,John,Phillips,joseph04@oliver-gordon.org,(238)457-8944x588,"4388 Christopher Grove
+Wrightville, NH 34228",Emilyshire,Mexico,246,2020-04-16,Retail
+CUST068,William,Powell,scott18@yahoo.com,707-499-7768,"70090 Eric Crossroad Suite 750
+South Jennifer, GA 64591",New Erinberg,Jersey,637,2020-10-24,Retail
+CUST069,Robin,Novak,tina05@hotmail.com,073-681-4956,"013 Kim Place
+Joanview, MT 89346",New Annatown,United States Minor Outlying Islands,299,2022-04-05,Wholesale
+CUST070,Michael,West,charles83@hotmail.com,(853)653-1301x625,"391 Heather Alley Apt. 442
+Shannonhaven, NC 39301",Davefort,Denmark,882,2021-11-22,Retail
+CUST071,Nicole,Chapman,wmartinez@molina.biz,+1-088-993-3729x612,"Unit 1114 Box 1252
+DPO AP 87778",West Richard,American Samoa,87,2022-09-08,Retail
+CUST072,Daniel,Sullivan,iclark@yahoo.com,166-390-4696x70659,"50333 Gardner Burgs
+East Patricia, VA 17125",Lake Wayneburgh,Djibouti,842,2021-07-13,Wholesale
+CUST073,Kim,Fitzpatrick,rochaemily@yahoo.com,001-014-695-5703,"85112 Foster Mountain Suite 047
+Ericamouth, NE 31395",Lake David,Chile,326,2024-04-06,Retail
+CUST074,Justin,Walker,pattersonbrian@yahoo.com,+1-529-860-8022x66469,"966 Elizabeth Plaza
+Lake Natalie, OK 82227",South Brianchester,Croatia,509,2024-09-27,Retail
+CUST075,Alex,Wang,cookkathryn@martin.com,(434)946-7723x6794,"9938 Jones Crossing
+West Matthew, WA 32941",East Jamestown,Solomon Islands,436,2020-10-13,Wholesale
+CUST076,Craig,Lozano,jason24@gmail.com,001-621-532-0565x5942,"50398 Randall Turnpike Apt. 160
+Lunashire, SC 05893",East Jose,Honduras,904,2024-07-11,Retail
+CUST077,Justin,Stone,bcastro@juarez.com,(367)100-8371,"7755 Jimenez Throughway
+Smithshire, AZ 82719",Lake Kristenhaven,Philippines,744,2024-06-25,Retail
+CUST078,Sarah,Bishop,michael15@kline.com,(283)315-2619x97068,"86641 Watson Street
+Casebury, AZ 51598",Roachside,Kyrgyz Republic,830,2021-04-24,Retail
+CUST079,Mark,Herrera,kimberlyroberts@yahoo.com,7693797898,"078 Stephenson Trail Apt. 332
+West Carolton, NC 28100",Port Jimbury,Mauritania,525,2024-02-25,Retail
+CUST080,Jennifer,Davis,stephanie68@curry.info,+1-558-535-6029x85857,"642 Elizabeth Mission
+Taylorside, WY 83140",Arroyohaven,Portugal,550,2020-05-07,Retail
+CUST081,Courtney,Martinez,wesleyjones@martin.net,(981)051-6541x0166,"32535 Brown Spur Apt. 076
+Barnesport, CA 38290",Amyberg,Sri Lanka,460,2020-02-04,Wholesale
+CUST082,Brenda,Vasquez,haley29@gmail.com,+1-605-576-7215x3790,"5224 Jones Manors Apt. 277
+Romanmouth, ND 73967",Fernandoport,Nauru,751,2022-04-09,Retail
+CUST083,Justin,Schwartz,tiffanycoleman@mcconnell.com,+1-317-685-8255x5639,"07732 Bates Hollow
+Smithborough, WA 53021",Lake Lisaville,Morocco,731,2022-03-24,Retail
+CUST084,Kathryn,Sellers,zcarlson@gmail.com,(264)705-2677x56583,"92329 Lee Walks
+West Danielbury, KY 72108",Michaelmouth,Cambodia,482,2021-09-03,Wholesale
+CUST085,Jackie,Wallace,heidimcdonald@stark.com,001-523-326-6249x48282,"2298 Crystal Lodge
+Marieton, SC 60159",Elizabethbury,Tonga,4,2023-06-05,Wholesale
+CUST086,Hannah,Daniels,michaeldorsey@brooks.com,(817)780-3306x5854,"9303 Gregory Meadow Apt. 647
+Andersonville, MS 31039",New Veronica,Burkina Faso,691,2024-08-16,Wholesale
+CUST087,Jason,Miller,stonesara@hotmail.com,001-574-268-3880,"518 Bryan Forge Suite 699
+West Antonio, TX 75282",Donaldsonberg,Luxembourg,727,2021-07-10,Wholesale
+CUST088,Thomas,Williams,qclark@gmail.com,878.486.9259x97444,"6398 Lori Unions Suite 820
+Buchananbury, MN 26072",Paceville,Paraguay,260,2021-07-02,Wholesale
+CUST089,Kenneth,Jones,scott79@davis.com,417.808.2976,"55997 Shawn Points Apt. 394
+Danielshaven, OH 02046",North Kristinaborough,Samoa,127,2023-05-13,Retail
+CUST090,Brenda,Henderson,mason21@hotmail.com,736.760.3440,"3050 Michele Harbor Suite 914
+South Michaelmouth, MI 12790",East Aliciamouth,Guinea-Bissau,460,2020-11-15,Wholesale
+CUST091,Mary,Pierce,theresa34@yahoo.com,+1-342-415-2350,"35668 Martha Flat Apt. 694
+Michaelshire, SC 83514",North Maria,Aruba,106,2020-08-05,Retail
+CUST092,James,Massey,calvinorozco@murphy.org,486-583-2528x4286,"851 Jackie Island
+Stephaniefort, NC 04608",South Tinashire,Turkey,992,2020-12-09,Wholesale
+CUST093,Bryan,Krause,ngoodman@ross.com,001-986-343-1087x0028,"5344 Melissa Shore
+East Lori, AK 62750",South Jennifer,Cayman Islands,888,2022-06-01,Wholesale
+CUST094,Fernando,Rivera,ryanwaters@yoder.com,001-789-600-2876x2680,"8513 Anderson Station
+Jonesmouth, SC 91467",Lake Hayleystad,Nauru,694,2020-10-23,Retail
+CUST095,David,Yang,nicoleshaw@hotmail.com,(671)221-3200,"97974 Morales Gardens
+West Raymond, NM 67391",Jamesside,Myanmar,75,2020-11-04,Wholesale
+CUST096,Jessica,Moore,evansjay@hotmail.com,726-558-8897x949,"27911 Blankenship Isle Apt. 774
+New Albertmouth, AR 94324",Amyport,Saint Lucia,215,2021-09-06,Wholesale
+CUST097,Lonnie,Henderson,joshuahaynes@gmail.com,0705997957,"88246 Kristen Fords
+East Regina, HI 19438",North Heather,Philippines,166,2021-05-23,Wholesale
+CUST098,Justin,Choi,rwashington@robinson.com,001-105-930-3569x915,"118 Griffin Wall Apt. 698
+Port Deborah, UT 48723",Williamsmouth,Niue,409,2020-12-07,Retail
+CUST099,Heather,Contreras,stephen05@brown.com,+1-300-423-4003x582,"7683 Brandon Loop
+Phelpsborough, WA 36436",South Amystad,Nauru,72,2023-08-26,Retail
+CUST100,Sean,Williams,dunnkim@hotmail.com,437.970.0334x2854,"3937 Chelsea Row Apt. 855
+Lake Robert, MI 24153",West Marvin,New Caledonia,58,2023-08-03,Wholesale
+CUST101,Guy,Jones,kellychristopher@gmail.com,(799)924-5461,"83187 Barry Road Apt. 507
+Williamsfort, AL 78124",Fosterview,Antarctica (the territory South of 60 deg S),184,2024-11-19,Retail
+CUST102,Kristina,Hatfield,james03@christensen.com,001-393-943-8898,"610 Mccarthy Fort Suite 540
+Villanuevahaven, ND 39915",North Bryan,San Marino,649,2021-04-21,Retail
+CUST103,Anthony,Davis,tracydavis@hotmail.com,001-403-311-4445,"5019 Mary Keys
+West Jessica, CO 39640",East Christopher,Taiwan,376,2019-12-06,Retail
+CUST104,Pamela,James,tbryant@yahoo.com,(271)906-3528x82907,"PSC 2424, Box 3110
+APO AE 16816",Fisherstad,Djibouti,635,2021-07-25,Wholesale
+CUST105,Karina,Jordan,williamsjames@gmail.com,(057)783-3478x1176,"973 Ayala Fields
+Amandastad, UT 94911",Hillport,Kiribati,862,2022-11-26,Wholesale
+CUST106,Destiny,Huber,andrewgonzalez@nelson-mullins.com,+1-159-614-6303x32665,"Unit 0636 Box 4719
+DPO AA 87756",South Barbaramouth,Ireland,499,2024-11-05,Wholesale
+CUST107,James,Morris,janetjennings@gmail.com,(018)674-7957x5605,"600 Eric Spring
+Port Evelynport, NM 45758",New Tylerborough,Philippines,673,2023-08-17,Retail
+CUST108,Lauren,Aguilar,matthewgomez@hotmail.com,+1-060-824-4412x5460,"653 Liu Pike Suite 182
+South Joyview, UT 16670",Brianastad,Antigua and Barbuda,999,2020-06-17,Wholesale
+CUST109,Maria,Cole,frankhodge@hotmail.com,870.130.3825x008,"58390 Edwards Rapid Apt. 091
+Maryton, NC 08765",Micheleburgh,Russian Federation,149,2022-06-12,Retail
+CUST110,James,Gonzalez,hunterann@hotmail.com,942.248.8272x143,"348 Christopher Inlet
+East Andremouth, MT 28953",Jonton,Bermuda,890,2020-11-05,Retail
+CUST111,Samantha,Watson,zperry@chen.com,054.808.2745x33079,"0630 Parker Spurs Suite 852
+Chungburgh, WV 04208",West Nancy,Zambia,51,2022-09-05,Retail
+CUST112,Wendy,Wolf,adavis@hill-schaefer.com,863-633-7619,"8196 Diaz Skyway Apt. 958
+Brianton, CT 85500",Davistown,Venezuela,875,2020-08-18,Wholesale
+CUST113,Adam,Palmer,debra17@gmail.com,839.972.5483,"67514 Kathryn Mountains Apt. 432
+Mariamouth, KS 91963",Youngshire,Iran,353,2021-04-16,Wholesale
+CUST114,Jeffrey,Jones,spencekelsey@hotmail.com,024-484-5107x41808,"2394 King Cliffs
+South Josephborough, RI 25789",Mitchellview,United States of America,640,2022-10-11,Wholesale
+CUST115,Michael,Estrada,sullivankimberly@yahoo.com,(279)394-5950,"8447 Richard Hill
+North Scottland, AR 71294",South Tara,Iran,640,2020-05-04,Wholesale
+CUST116,Julia,Weber,gpearson@lee.info,997-602-2445x706,"3311 Travis Way Apt. 724
+Cummingston, ID 77075",Woodwardmouth,United States Minor Outlying Islands,922,2020-06-20,Wholesale
+CUST117,Susan,Holt,millerchristina@hudson-rodriguez.net,319.032.1621,"2293 James Cape Apt. 480
+Bethfurt, MA 95686",Stevenview,Saint Helena,542,2024-05-01,Retail
+CUST118,Caitlin,Fisher,cainchristopher@sparks-hart.com,665-768-9039,"0018 Hughes Rapids Apt. 740
+Jillland, WY 22327",Shannonmouth,Switzerland,901,2024-04-21,Wholesale
+CUST119,Nicole,Wang,donnamorrison@yahoo.com,914.783.7971x0195,"15600 Warren Courts
+New Lance, PA 05521",Gonzalezburgh,San Marino,305,2023-12-20,Retail
+CUST120,Jeffrey,Olson,whitneyjeffrey@pierce.com,(143)112-1591x2153,"143 Mckee Court
+New Michaela, SD 60071",New Derrick,Niue,56,2023-05-07,Wholesale
+CUST121,Christina,Anderson,steveriley@ball.biz,5269574141,"58966 Brandon Lights
+Lake Walter, WV 70415",South Scottborough,Japan,462,2024-10-18,Wholesale
+CUST122,Juan,Bishop,matthew10@jones-lloyd.net,8628283416,"873 David Manors
+South Nicholas, MS 05722",Lake Nancy,Palestinian Territory,387,2024-03-01,Retail
+CUST123,Sandra,Kramer,gwendolyn01@chavez-williams.com,001-802-612-6754x68097,"00395 Bennett Burg Apt. 292
+South Robertchester, NH 60782",Lonnieberg,Wallis and Futuna,711,2023-06-25,Retail
+CUST124,Desiree,Mccann,cbradford@combs.com,023.237.8806x29342,"2603 Benjamin Park Suite 260
+South Jennifer, MO 20850",Lake Zachary,Uzbekistan,954,2024-06-28,Wholesale
+CUST125,Kylie,Lee,joshua17@hotmail.com,001-709-866-5554x89063,"480 Roberts Loaf Suite 950
+Ginashire, IL 44462",North Colton,Madagascar,694,2020-01-08,Retail
+CUST126,Amy,Osborne,nathananderson@brown-finley.com,+1-454-169-7161,"6648 Danielle Points
+East Anthonyfurt, CO 35974",Lauraview,Estonia,240,2020-02-11,Retail
+CUST127,Jerry,Bautista,asalazar@nichols-knapp.com,+1-470-047-2333x395,"048 David Falls Apt. 069
+Patriciabury, RI 89601",Lake Ronald,Somalia,369,2021-12-08,Retail
+CUST128,Shari,Nunez,tjohnson@jones.com,351-620-1383,"57040 Giles Stream Suite 801
+New Kimton, OK 32115",Boydbury,Malta,503,2024-01-05,Wholesale
+CUST129,Kristen,Howard,steven57@ford.com,203.360.5160x1293,"332 Gonzalez Hill Apt. 700
+South Richardfort, NY 49828",East Sharonhaven,Madagascar,352,2023-02-22,Wholesale
+CUST130,Shari,Chavez,smithmatthew@ruiz.biz,075.576.5692,"661 Riley Greens Apt. 966
+Mccoyton, PA 81260",North Jerry,Guatemala,869,2023-04-09,Retail
+CUST131,Sarah,Diaz,qdiaz@hotmail.com,+1-398-980-3713x27316,"4776 Anna Islands
+Carrollfurt, OK 28574",Melanieburgh,China,846,2024-02-01,Wholesale
+CUST132,Peter,Massey,johnsoncandice@yahoo.com,001-947-543-7510x8222,"313 Davis View Apt. 093
+Lake Amber, OH 09484",Andreaborough,Philippines,631,2020-01-18,Wholesale
+CUST133,Katherine,Wright,willisstephanie@gmail.com,4916895145,"105 Joel Haven
+South Nancymouth, TN 37351",Port Cindyshire,Isle of Man,620,2023-06-26,Wholesale
+CUST134,John,Garcia,sheppardteresa@gmail.com,792.292.5443,"077 Brandon Oval
+Jerryton, ID 03966",Doylebury,Bulgaria,522,2021-08-16,Retail
+CUST135,Andrew,Hartman,hoffmanblake@anderson-johnson.info,001-688-018-2782x3232,"559 Jocelyn Crescent
+Racheltown, NE 37952",South Ana,Grenada,733,2023-03-17,Wholesale
+CUST136,Joanna,Chang,kristywebster@hotmail.com,5174666715,"1865 Greer Cape Suite 502
+South Karenmouth, CA 96176",North Aaron,Netherlands Antilles,534,2022-01-07,Wholesale
+CUST137,James,Ayala,paul25@gmail.com,035.642.8445x535,"5360 Bailey Vista Apt. 220
+Ortizstad, ND 61222",Deanborough,Singapore,745,2022-06-19,Wholesale
+CUST138,Kristin,Miranda,elizabethtaylor@hotmail.com,+1-695-547-0052x81098,"45390 Dominique Drive Suite 420
+North Elizabethchester, NY 21334",Leechester,Bolivia,919,2020-09-02,Retail
+CUST139,Kyle,Moore,xellis@white-taylor.org,001-555-839-4328x805,"81401 Phillips Turnpike
+New Emilyport, MS 07230",Stephanieview,Senegal,163,2021-02-24,Retail
+CUST140,Amy,Ware,skinneradam@wiley-hines.com,(040)794-3308x99732,"Unit 9360 Box 5469
+DPO AA 20957",Gonzalezport,Niger,476,2021-12-01,Wholesale
+CUST141,Lauren,Davis,rhayes@shaw.com,019.146.8239x7155,"96716 Micheal Trafficway
+Lake Anna, WY 44834",Deanfort,Ukraine,849,2021-07-24,Retail
+CUST142,Hannah,Reynolds,susan49@gonzales.com,5116398335,"1441 Atkinson Dale Apt. 171
+Port Felicialand, WA 31372",Ericberg,Wallis and Futuna,974,2023-01-30,Wholesale
+CUST143,Patricia,Hopkins,brandonharding@saunders.com,018.308.4234,"12405 Jeffery Crossing Suite 765
+Davidtown, AL 26443",New Jefferyport,Cayman Islands,165,2021-08-08,Wholesale
+CUST144,Jason,Thomas,margaret72@hotmail.com,(674)859-8113x99260,"6139 Davis Circle
+New Ashleeton, UT 38106",Rodriguezberg,Turkmenistan,145,2022-04-06,Wholesale
+CUST145,Raymond,Gray,zporter@gonzales.com,(755)094-0997,"62376 Shane Mountains
+South Sandraberg, SD 69425",Adamfort,Bahamas,797,2022-07-07,Retail
+CUST146,Elizabeth,Taylor,heatherporter@yahoo.com,927-708-9200,"USCGC Edwards
+FPO AP 92828",Port Glenn,Sudan,899,2023-04-26,Wholesale
+CUST147,Amber,Gregory,hooverlauren@yahoo.com,001-131-125-2864x9584,"228 Rebecca Via
+Paulton, DE 86897",Richardborough,Vietnam,625,2020-08-08,Retail
+CUST148,Sarah,Wilson,hartmangina@gmail.com,147.611.1384x6961,"5060 Sharon Mission Apt. 990
+Stevenside, WV 24338",Williamsmouth,Heard Island and McDonald Islands,709,2020-07-28,Wholesale
+CUST149,Alexander,Franklin,aimee72@fowler-mclaughlin.org,663.457.6637,"789 Joseph Orchard
+Brendamouth, SD 56520",Joshuaville,France,789,2021-01-02,Retail
+CUST150,Alex,Martinez,johnsonscott@hotmail.com,+1-625-052-4418x38371,"6901 Flores Spur
+Lake Tonyaport, ME 59398",Schultzfort,Nepal,162,2022-05-15,Wholesale
+CUST151,Joshua,Jones,robertbuchanan@yahoo.com,823.244.1093x0563,"54828 Christopher Stream
+Louisport, MI 51228",Snyderstad,Solomon Islands,642,2022-06-16,Wholesale
+CUST152,Jonathan,Powers,nancy30@manning.com,(944)337-7252x83532,"1036 Jennifer Plains
+North Blakeburgh, NH 52549",Gabriellaland,Zambia,951,2024-06-11,Retail
+CUST153,Marie,Hall,aaron05@hotmail.com,(165)585-5588,"705 Brittany Ranch
+South Amy, ND 01417",Paulabury,Benin,577,2020-07-05,Retail
+CUST154,Jessica,Johnson,stephenschristopher@yahoo.com,360-911-8170x5393,"3895 Ortiz Roads Apt. 130
+Port Derek, SC 57033",Williamsonmouth,Honduras,81,2021-01-20,Retail
+CUST155,David,Flores,elizabethjones@mendoza-stephens.com,9402648011,"USS Gould
+FPO AE 87062",West Carlberg,Uruguay,118,2023-11-18,Wholesale
+CUST156,Dillon,Russell,adamthornton@roberts-andrews.com,+1-382-207-0696x1746,"5087 Chandler Spurs Apt. 526
+North Samanthaberg, PA 51899",Lisaberg,Liberia,925,2022-07-01,Retail
+CUST157,Eric,Smith,yvargas@yahoo.com,001-072-341-1079x2199,"9927 Huff Alley
+Collinsville, NJ 84302",Anthonyport,Mexico,563,2022-05-20,Wholesale
+CUST158,Kayla,Perez,robert77@chung.info,803.762.4428x1805,"555 Lopez Key
+Marksview, VT 05114",Kellyport,Andorra,306,2024-10-31,Retail
+CUST159,Angela,Irwin,judybryant@meza.com,236-388-3827,"85555 Kyle Vista Suite 044
+Wallaceburgh, ND 51777",Stephanieville,Palestinian Territory,826,2021-01-11,Retail
+CUST160,Kristin,Jackson,sharonsmith@johnson.org,638-311-3886,"4211 Madeline Viaduct Suite 209
+South Carmen, TX 34430",Lake David,Brazil,522,2022-09-28,Retail
+CUST161,Debra,Parker,hsmith@yahoo.com,+1-186-113-0333,"929 James Centers Suite 970
+New Larry, OR 12496",Lindaton,Jersey,57,2024-06-25,Wholesale
+CUST162,Dylan,Shaw,ehicks@michael-anderson.net,403-848-0075,"69231 Paula Turnpike
+West Louis, CO 84484",Jocelynside,Japan,660,2020-02-01,Wholesale
+CUST163,Sara,Flores,dananichols@hotmail.com,001-120-488-4581x2480,"91594 David Point Apt. 949
+Brookeland, CT 63595",North Jennifer,Dominican Republic,139,2021-05-10,Retail
+CUST164,Rhonda,Espinoza,kmartin@gmail.com,136-001-5510,"083 Tammy Shoals
+North Elizabeth, MD 30967",Alexanderburgh,Thailand,606,2024-08-27,Wholesale
+CUST165,Gary,Richardson,tina34@haas-thompson.com,152.085.1563x41857,"19706 Carpenter Village Suite 327
+South Katherine, KS 52206",North Lori,Comoros,610,2024-10-03,Retail
+CUST166,Lynn,Rose,barryjason@hotmail.com,001-069-632-9593,"USCGC Williams
+FPO AE 44493",Johnsonmouth,New Zealand,458,2022-10-29,Retail
+CUST167,Michael,Roberts,jerry05@taylor.com,(515)779-7858x29108,"31175 Williams Expressway Suite 065
+Maryhaven, NC 50877",West Billy,Puerto Rico,472,2021-01-19,Retail
+CUST168,Kara,Griffin,elowery@hotmail.com,310.088.5125,"21042 Leah Trafficway Suite 746
+Carrshire, NJ 19053",Pruittborough,South Georgia and the South Sandwich Islands,433,2022-01-25,Retail
+CUST169,Kristen,Jones,yherrera@yahoo.com,248.840.8720x58271,"76137 Thomas Unions Suite 730
+Nicoleshire, PA 64530",New Corey,Denmark,738,2022-09-29,Retail
+CUST170,Terri,Pollard,miguel66@hotmail.com,+1-056-735-9531x506,"98902 Mercado Causeway Apt. 205
+New Tylermouth, CT 23446",North Eric,Lithuania,748,2021-08-19,Retail
+CUST171,Jessica,Foster,rluna@hotmail.com,165.408.7707,"14487 Carroll Fords Suite 204
+Michaelmouth, WI 44657",East Markberg,Panama,460,2022-11-07,Wholesale
+CUST172,Brandon,Davila,thompsonjennifer@yahoo.com,632.218.7353x96608,"786 Lauren Place Suite 343
+East Angelica, OH 38725",Amandatown,Somalia,256,2023-09-22,Retail
+CUST173,Joseph,Pineda,keith10@yahoo.com,001-492-263-1369,"9082 Schultz Streets
+Tammyside, KS 55615",Halebury,South Georgia and the South Sandwich Islands,643,2023-09-26,Wholesale
+CUST174,Jessica,Spencer,whoward@johnson.com,(530)196-2746,"USCGC Davis
+FPO AE 19269",Lake Brianmouth,Georgia,25,2021-12-14,Wholesale
+CUST175,Harold,Jimenez,benjamincoleman@yahoo.com,001-092-490-6978x5616,"9314 Robinson Meadows
+Amymouth, CA 56901",South Michael,Indonesia,694,2020-10-12,Retail
+CUST176,Janet,Nelson,kim20@hotmail.com,7528759419,"307 Timothy Point Suite 572
+Jorgemouth, NV 11498",Maryfort,Liberia,459,2022-05-02,Retail
+CUST177,Timothy,Smith,ballen@yahoo.com,(246)501-2852x51434,"1004 James Heights
+East Brendanview, WI 87826",Port Gregory,Honduras,691,2021-10-21,Retail
+CUST178,Amber,Jenkins,houstonmakayla@hotmail.com,(683)910-0406x6563,"87551 Archer Valley
+Kennethton, LA 72951",West Dawnstad,Eritrea,856,2019-12-10,Wholesale
+CUST179,Charlene,West,lindsaypalmer@krause-gray.com,969.683.9684x5182,"Unit 5384 Box 0850
+DPO AA 74122",Chaseborough,Colombia,900,2023-02-04,Retail
+CUST180,Kathleen,Blake,kevin28@pearson.com,0861020636,"211 Mason Point
+Davidhaven, NM 70293",Devinbury,Denmark,45,2020-06-04,Wholesale
+CUST181,Melissa,Joseph,jamie47@gmail.com,+1-100-133-4708x1445,"USNV Schmitt
+FPO AA 22521",Port Amyfurt,Malawi,385,2023-10-15,Retail
+CUST182,Dana,Lang,phillipschristine@gmail.com,(913)604-4636x95453,"890 Brooks Crossing Apt. 242
+Andersenville, AK 73130",Changberg,Eritrea,322,2024-05-04,Retail
+CUST183,Joseph,Brown,qhardin@hotmail.com,860.129.1814,"919 Peterson Stravenue
+Mcculloughfort, SD 36323",North Keithside,French Guiana,639,2021-03-14,Wholesale
+CUST184,Tamara,Moran,dawnsantiago@hotmail.com,877-859-1162x93030,"634 Morales Unions Apt. 379
+Michelleborough, TX 39943",Kevinville,Indonesia,362,2023-02-24,Retail
+CUST185,Johnny,Grant,danielhess@gmail.com,8688862378,"48041 Melissa Village
+Foxbury, MI 29331",Johnsonport,Cambodia,583,2020-04-21,Retail
+CUST186,Michael,Garcia,rwilkins@mitchell-carter.net,001-378-910-9550x91514,"5440 Cole Stravenue
+Nicholasbury, IA 47960",Lisaland,Vietnam,720,2024-03-30,Retail
+CUST187,Brian,Wagner,kruegerdavid@gmail.com,(701)171-9703x5471,"PSC 7004, Box 5582
+APO AE 67418",Amymouth,Liberia,683,2020-12-14,Wholesale
+CUST188,Kenneth,Maldonado,michaelgonzalez@hotmail.com,186-513-5931,"18317 Brianna Island
+Williamschester, KY 72353",West Penny,Peru,889,2024-04-21,Retail
+CUST189,Steven,Giles,andrea84@golden.info,104.048.5967x863,"575 Christina Track
+Brownland, PA 46823",New Gabrielview,Ukraine,70,2022-06-26,Retail
+CUST190,Aaron,Matthews,derek03@jones-day.org,592.687.8377,"8127 Beverly Vista Suite 000
+Lucasshire, KY 24313",East Josephchester,Mauritania,420,2022-07-17,Retail
+CUST191,Claudia,Lambert,christopheranderson@walton-mcpherson.com,+1-807-188-5998x5381,"9526 Knox Streets Apt. 634
+Mendezburgh, MO 54787",New Michaelview,Austria,9,2021-08-29,Retail
+CUST192,Autumn,Gardner,ffrench@stephens.net,001-889-111-0033x20366,"43632 Cantu Oval
+West Samanthafurt, SD 70349",Amandastad,Lebanon,323,2020-03-21,Wholesale
+CUST193,Joseph,Brown,zmiller@hotmail.com,(761)872-9431x0049,"PSC 6056, Box 6834
+APO AE 68808",East Christopherville,Malaysia,132,2020-04-15,Wholesale
+CUST194,Joseph,Sandoval,nicholas69@gmail.com,001-083-485-1208x1641,"3230 Freeman Circles
+East Christopherville, AK 12679",Martinbury,British Virgin Islands,825,2024-05-17,Retail
+CUST195,Felicia,Alvarado,jeffrey17@meadows.com,954.083.1796,"42042 Hanson Lights
+East Leemouth, CA 28346",Homouth,France,72,2020-02-14,Wholesale
+CUST196,Rachel,May,nwallace@yahoo.com,660-796-7044x51317,"98896 Kari Crest Suite 388
+Williamsville, NY 52869",Lopezton,Bhutan,924,2021-12-19,Retail
+CUST197,Jacob,Valentine,alexis50@gmail.com,442-349-4322x51647,"4990 Miles Square
+Teresastad, MS 94529",Pachecofort,Central African Republic,771,2021-09-20,Retail
+CUST198,James,Trevino,brenda50@aguirre.net,+1-468-153-8860,"1926 Shaw Harbor
+South April, AL 07165",West Michael,Congo,826,2024-09-22,Wholesale
+CUST199,Erica,Holmes,claudia80@gmail.com,+1-728-598-0187x5997,"PSC 3636, Box 4198
+APO AE 81620",Josephland,Tanzania,932,2020-05-07,Wholesale
+CUST200,John,Anthony,chaney@hotmail.com,001-023-019-8666x7547,"Unit 7791 Box 6278
+DPO AA 42391",Port Michaelside,Saint Helena,539,2020-09-26,Retail
